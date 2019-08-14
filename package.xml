@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package>
+    <name>MD_AdvancedCategory</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://www.opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>With our extension: "Advanced Categories Support SEO" you get a powerful content which allows to manage and additional more title and video,images...</summary>
+    <description>With our extension: "Advanced Categories Support SEO" you get a powerful content which allows to manage and additional more title and video,images...&#xD;
+&#xD;
+Can you custom many text and additional many key words support your site SEO very good&#xD;
+&#xD;
+Advanced Categories Support SEO is a really good solution for big stores want SEO. If you are looking to add functionality and interaction to your magento store, let Mage Designer do it for you. Don't hesitate to put this useful magento extension to your cart, or you will miss the chance to increase your sale.</description>
+    <notes>please contact us : support@mage-designer.com</notes>
+    <authors><author><name>OSWorld</name><user>OSWorld</user><email>thinhct@mage-designer.com</email></author></authors>
+    <date>2013-01-25</date>
+    <time>10:19:02</time>
+    <contents><target name="magelocal"><dir name="MD"><dir name="Category"><dir name="Helper"><file name="Data.php" hash="d29775ddb4bbdfa2f98e5c2aeb06ac4d"/></dir><dir name="controllers"><file name="IndexController.php" hash="2ff9c1f5fa26a08537094f7369e5f480"/></dir><dir name="etc"><file name="config.xml" hash="ae078ba6d5cc4aea70b14f30ca6dc585"/><file name="system.xml" hash="ee0f9569c1869b72c33b68e142f06113"/></dir><dir name="sql"><dir name="category_setup"><file name="mysql4-install-0.1.2.php" hash="4df296e1214509fa552ca63acabe7304"/></dir></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="default"><dir name="default"><dir name="layout"><file name="md_category.xml" hash="577f970eac0728eb7d90636e59ad7e07"/></dir><dir name="template"><dir name="md"><dir name="category"><dir name="catalog"><dir name="category"><file name="view.phtml" hash="fea21779bb4fbc317a87367cd4394ede"/></dir></dir></dir></dir></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="MD_Category.xml" hash="f79f0039934722808b02c01d3dbd57be"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

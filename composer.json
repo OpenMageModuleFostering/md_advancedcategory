@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/MD_AdvancedCategory",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "With our extension: "Advanced Categories Support SEO" you get a powerful content which allows to manage and additional more title and video,images...",
+    "authors": [
+    {
+        "name": "OSWorld",
+        "email": "thinhct@mage-designer.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
